@@ -14,27 +14,6 @@ The workflow starts with housing-market data uploaded to Google BigQuery. SQL is
 
 Inside Power BI, the data is further transformed using Power Query and analyzed using DAX measures. Multiple interactive dashboards were created to understand housing prices, sales performance, regional trends, and year-over-year changes.
 
-### End-to-End Workflow
-
-```text
-Housing Dataset
-      ↓
-Google BigQuery
-      ↓
-SQL Data Exploration
-      ↓
-Power BI Connection
-      ↓
-Power Query Transformation
-      ↓
-Data Modeling
-      ↓
-DAX Measures
-      ↓
-Interactive Dashboards
-      ↓
-Business Insights
-
 ## 🛠️ Tools & Technologies
 
 - Google BigQuery
@@ -50,13 +29,15 @@ Business Insights
 ## 📊 Dashboard Preview
 
 ### House Type Analysis
-![House Type Analysis](images/house-type-analysis.png)
+<img width="1318" height="727" alt="Screenshot 2026-09-17 112941" src="https://github.com/user-attachments/assets/7d6a1fb5-ec6c-4703-862b-a99315eeecab" />
+
 
 ### Sales Performance
-![Sales Performance](images/sales-performance.png)
+<img width="1322" height="742" alt="Screenshot 2026-09-14 141313" src="https://github.com/user-attachments/assets/330b4010-ae2b-4ac3-a3ae-4b4f8a7817a3" />
 
 ### House Market Overview
-![House Market Overview](images/house-market-overview.png)
+<img width="1335" height="750" alt="Screenshot 2026-09-14 141444" src="https://github.com/user-attachments/assets/cd17d948-7837-474c-98e1-9f117e8eabe2" />
+
 
 ---
 
@@ -80,3 +61,25 @@ Business Insights
 - Strengthened Power Query and DAX skills
 - Built interactive business dashboards
 - Practiced converting raw data into meaningful visual insights
+
+
+### End-to-End Workflow
+
+```text
+Housing Dataset
+      ↓
+Google BigQuery
+      ↓
+SQL Data Exploration
+      ↓
+Power BI Connection
+      ↓
+Power Query Transformation
+      ↓
+Data Modeling
+      ↓
+DAX Measures
+      ↓
+Interactive Dashboards
+      ↓
+Business Insights
