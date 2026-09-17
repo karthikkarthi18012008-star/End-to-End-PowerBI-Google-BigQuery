@@ -34,3 +34,49 @@ DAX Measures
 Interactive Dashboards
       ↓
 Business Insights
+
+## 🛠️ Tools & Technologies
+
+- Google BigQuery
+- SQL
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Visualization
+- Data Modeling
+
+---
+
+## 📊 Dashboard Preview
+
+### House Type Analysis
+![House Type Analysis](images/house-type-analysis.png)
+
+### Sales Performance
+![Sales Performance](images/sales-performance.png)
+
+### House Market Overview
+![House Market Overview](images/house-market-overview.png)
+
+---
+
+## 📚 Concepts Covered
+
+- Data extraction from Google BigQuery
+- SQL-based data exploration
+- Data transformation using Power Query
+- Data modeling in Power BI
+- DAX measure creation
+- Time-based analysis
+- Interactive dashboard development
+- Regional and property-level analysis
+
+---
+
+## 🎯 Learning Outcomes
+
+- Learned to connect Google BigQuery with Power BI
+- Practiced SQL for data exploration
+- Strengthened Power Query and DAX skills
+- Built interactive business dashboards
+- Practiced converting raw data into meaningful visual insights
